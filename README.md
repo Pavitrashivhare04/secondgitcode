@@ -1,2 +1,4 @@
 # secondgitcode
-its my second git hub code  
+its my first github repsitory 
+author - pavitra shivhare
+purpose- for learning github
